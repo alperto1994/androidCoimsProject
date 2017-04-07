@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d85481de1c88096f8f110be11c975cfdfa245a9a">
+        <dex dex="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1d00362c520b2995142b8bc6d456c5fb1eae0fed/classes.dex" />
+    </item>
+    <item
+        jar="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_024d940d8932feb992f2dc34b4d4b7c8ef96cb29/classes.dex" />
+    </item>
+    <item
+        jar="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_1d50d8d1c0d8502d477491d79ba4b78ab0617b5f/classes.dex" />
+    </item>
+    <item
+        jar="/home/bcasas/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_6a57c6e7f8f6afa32958af1d72d75ffb71c2d843/classes.dex" />
+    </item>
+    <item
+        jar="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ebefbf9a40a8945cc6262d246a83b14820d7d4e6">
+        <dex dex="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4a433992aa98025bc682fc82d020a5985134e25a/classes.dex" />
+    </item>
+    <item
+        jar="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/bcasas/AndroidStudioProjects/MyCoinDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_5a134a9d6ec9cff1bff39b22f409e78e49c7b4da/classes.dex" />
+    </item>
+
+</items>
